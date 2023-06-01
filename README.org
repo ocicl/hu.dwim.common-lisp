@@ -1,0 +1,9 @@
+* hu.dwim.common-lisp
+
+probably a mistake
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/hu-dwim/hu.dwim.common-lisp.git |
+| commit  | 9055819                                                |
+| systems | hu.dwim.common-lisp                                    |
+|---------+--------------------------------------------------------|
